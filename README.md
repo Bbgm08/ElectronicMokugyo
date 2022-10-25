@@ -1,3 +1,3 @@
 # ElectronicMokugyo
-Electronic Automatic Mokugyo
-电子自动木鱼
+#Electronic Automatic Mokugyo
+#电子自动木鱼
